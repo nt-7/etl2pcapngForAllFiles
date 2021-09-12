@@ -5,4 +5,6 @@ This ps1 enables you to execute etl2pcapng.exe to convert from .etl to .pcapng f
 
 ## how-to
 
+```
 ./sample.ps1 ./dirname
+```
